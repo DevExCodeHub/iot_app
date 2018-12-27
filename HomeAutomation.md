@@ -26,7 +26,6 @@ In order to complete this project, you will need the following prerequisites:
 
 - [Internet of Things Platform](https://console.bluemix.net/catalog/services/internet-of-things-platform)
 - [Node-RED starter](https://console.bluemix.net/catalog/starters/node-red-starter)
-- [Raspberry Pi](https://console.bluemix.net/catalog/starters/node-red-starter)
 - Raspberry Pi
 
 
