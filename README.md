@@ -27,3 +27,11 @@ Introducing how to use Node-RED in Raspberry Pi and control LEDs via the Raspber
 [Home Automation](HomeAutomation.md)
 
 ----------------------------------------------------------------------------------------------------
+
+### Analyze any picture using IBM watson and Node Red.
+
+
+
+[Visual Recognition](Visual_Recognition.md)
+
+----------------------------------------------------------------------------------------------------
