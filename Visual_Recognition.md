@@ -28,7 +28,7 @@ In order to complete this project, you will need the following prerequisites:
 ### Create IBM Node-RED
 To create and configur Node-RED app, go to your IBM Cloud account and click Catalog then choice Starter Kits from the lift side then choice Node-RED Starter as shown in the following figure.
 
-![`Translator`](images/3.png)
+![`Create_node_red`](images/Create_node_red.png)
 
 
 
