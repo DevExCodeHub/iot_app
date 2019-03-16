@@ -89,7 +89,7 @@ To see your application, go to ```[yourdomain] /ui ```
 
 ![`node-red_real-time_ui`](images/node-red_real-time_ui.png)
 
-Click to take picture to start analyzing!!
+Click on take picture to start analyzing!!
 
 **_Congratulations!! You've successfully create real-time images analyzing using Node-RED_**
 
