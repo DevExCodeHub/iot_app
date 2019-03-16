@@ -35,3 +35,12 @@ Introducing how to use Node-RED in Raspberry Pi and control LEDs via the Raspber
 [Visual Recognition](Visual_Recognition.md)
 
 ----------------------------------------------------------------------------------------------------
+
+
+### Analyze real-time images from your computer using Visual Recognition on Node-RED.
+
+
+
+[Real-time_Analyze_Image](real-time_analyze_image.md)
+
+----------------------------------------------------------------------------------------------------
