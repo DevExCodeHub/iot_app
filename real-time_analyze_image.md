@@ -8,6 +8,7 @@ Analyzing pictures became easier recently by using IBM Watson Visual Recognition
 After completing this project, you will understand how to;
 - Use Node-RED.
 - [Create IBM Watson Visual Recognition](#Create-IBM-Watson-Visual-Recognition)
+- [Create Node-red](#Create-Node-red)
 - [Create the flow](#Create-the-flow)
 - [Configure IBM Watson Visual Recognition on Node-RED](#Configure-IBM-Watson-Visual-Recognition-on-Node-RED)
 
@@ -38,6 +39,32 @@ After creating the service, **save the credentials and keep them safe**.
 ![`watson_visual_recognition5`](images/watson_visual_recognition5.png)
 
 
+### Create Node-RED
+To create and configur Node-RED app, go to your IBM Cloud account and click Catalog then choice Starter Kits from the lift side then choice Node-RED Starter as shown in the following figure.
+
+![`Create_node_red`](images/Create_node_red.png)
+
+
+
+After that, Fill-out the fields to create IoT Platform:
+- App name: has to be unique in the IBM cloud domain.
+- Host name: will be filled out automatically based on the App name.
+
+click on Create 
+![`4`](images/4.png)
+
+Then, wait seconds until shows the application shows Running and click on Visit App URL
+
+![`5`](images/5.png)
+
+After that, for first time, it will ask you to setup the username and password. Please follow the instruction to secure your editor so only authorized users can access it. 
+
+
+![`6`](images/6.png)
+
+Then, click on "Go to your Node-RED flow editor".
+
+![`7`](images/7.png)
  
 ### Create the flow. 
 
