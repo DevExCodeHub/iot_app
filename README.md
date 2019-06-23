@@ -20,7 +20,7 @@ Introducing how to use Node-RED in Raspberry Pi and control LEDs via the Raspber
 
 ----------------------------------------------------------------------------------------------------
 
-### Contrall your IoT home applinces using IBM IoT platform and Node Red.
+### Control all your IoT home applinces using IBM IoT platform and Node Red.
 
 
 
